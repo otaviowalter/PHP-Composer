@@ -1,1 +1,3 @@
-"# PHP-Composer" 
+"# php-composer" 
+
+# Documentation
