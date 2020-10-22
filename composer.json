@@ -39,5 +39,6 @@
   "scripts-descriptions": {
     "check": "Roda as verificações do código. Com PHAN, PHPCS e PHPUNIT."
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bin": ["buscar-cursos-alura.php"]
 }
